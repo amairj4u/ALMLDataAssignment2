@@ -29,14 +29,14 @@ Branded/high end cars have a positive impact on the price of the car.
 The number of cylinders for the engine also has a positive impact on the prices of the car.
 Clean title car also has a positive impact on the price.
 Electric vehicles has a negative impact on the price of the car.
-Using the linear regression model the coefficients for age returned is -988. It means that for every year the price of the car is reduced by 988$.
-The coefficient for the Odometer is -694 for every 10k miles. This means that for every 10k miles the value of the car is reduced by 694$.
-The car in new condition sells for $7003 more than the median value in the data set.
+Using the linear regression model the coefficients for age returned is -988. It means that for every year the price of the car is reduced by 988.
+The coefficient for the Odometer is -694 for every 10k miles. This means that for every 10k miles the value of the car is reduced by 694.
+The car in new condition sells for 7003 more than the median value in the data set.
 Analyzed more than 350k used car listings and used the Ridge and lasso models to fit the data. The R2 score was slightly better for Ridge which indicates a better model.
 The top 10 features that affected the price of the car both negatively and postively were determined.
-As the age of the car goes by the value of the car decreased by  988$ per year. 
-For every 10k miles driven the value of the car decrease by 694$.
-The car in new condition sells for $7003 more than the median value in the data set followed by good, excellent and fair. 
+As the age of the car goes by the value of the car decreased by  988 per year. 
+For every 10k miles driven the value of the car decrease by 694.
+The car in new condition sells for 7003 more than the median value in the data set followed by good, excellent and fair. 
 Higher the number of cylinders, higher the price of the used cars.
 Title status salvage sells for lower proce when compared to other title status.
 Tesla, Ram, Porsche and similar luxury brands sell for more price than the other economy brands like chrysler, fiat, hyundai and saturn.
